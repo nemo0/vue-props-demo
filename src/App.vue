@@ -1,7 +1,6 @@
 
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
     <Test v-bind:artists="artists" />
     <Test2 v-bind:artists="artists" />
   </div>
